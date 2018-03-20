@@ -1,0 +1,12 @@
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/bin/netstandard2.0/OpenAPI.Validator.deps.json
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/bin/netstandard2.0/OpenAPI.Validator.dll
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/bin/netstandard2.0/OpenAPI.Validator.pdb
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/bin/netstandard2.0/AutoRest.Core.dll
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/bin/netstandard2.0/AutoRest.Core.pdb
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/obj/Debug/netstandard2.0/OpenAPI.Validator.Properties.Resources.resources
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/obj/Debug/netstandard2.0/OpenAPI.Validator.csproj.GenerateResource.Cache
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/obj/Debug/netstandard2.0/OpenAPI.Validator.csproj.CoreCompileInputs.cache
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/obj/Debug/netstandard2.0/OpenAPI.Validator.AssemblyInfoInputs.cache
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/obj/Debug/netstandard2.0/OpenAPI.Validator.AssemblyInfo.cs
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/obj/Debug/netstandard2.0/OpenAPI.Validator.dll
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/OpenAPI.Validator/obj/Debug/netstandard2.0/OpenAPI.Validator.pdb
