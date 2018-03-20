@@ -1,0 +1,10 @@
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/AutoRest.Core/bin/netstandard2.0/AutoRest.Core.deps.json
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/AutoRest.Core/bin/netstandard2.0/AutoRest.Core.dll
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/AutoRest.Core/bin/netstandard2.0/AutoRest.Core.pdb
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/AutoRest.Core/obj/Debug/netstandard2.0/AutoRest.Core.Properties.Resources.resources
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/AutoRest.Core/obj/Debug/netstandard2.0/AutoRest.Core.csproj.GenerateResource.Cache
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/AutoRest.Core/obj/Debug/netstandard2.0/AutoRest.Core.csproj.CoreCompileInputs.cache
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/AutoRest.Core/obj/Debug/netstandard2.0/AutoRest.Core.AssemblyInfoInputs.cache
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/AutoRest.Core/obj/Debug/netstandard2.0/AutoRest.Core.AssemblyInfo.cs
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/AutoRest.Core/obj/Debug/netstandard2.0/AutoRest.Core.dll
+/Users/saranganrajamanickam/Projects/azure-openapi-arm-validator/src/dotnet/AutoRest.Core/obj/Debug/netstandard2.0/AutoRest.Core.pdb
