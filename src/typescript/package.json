@@ -1,6 +1,6 @@
 {
     "name": "@microsoft.azure/openapi-arm-validator",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "description": "Azure OpenAPI ARM Validator",
     "main": "src/index.js",
     "scripts": {
