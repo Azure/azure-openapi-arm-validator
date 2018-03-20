@@ -14,7 +14,7 @@
             "cwd": "${workspaceRoot}",
             "program": "${workspaceRoot}/node_modules/mocha/bin/mocha",
             "args": [
-                "./src/typescript/azure-openapi-validator/tests/*.js",
+                "./src/typescript/azure-openapi-arm-validator/tests/*.js",
                 "--colors"
             ],
             "outFiles": [],
